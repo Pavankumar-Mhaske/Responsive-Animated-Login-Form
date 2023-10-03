@@ -31,7 +31,9 @@ Contributions are always welcome!
 ![Screenshot (744)](https://github.com/Pavankumar-Mhaske/Responsive-Animated-Login-Form/assets/104865937/da3c4d5d-bd16-4ba7-ae63-115f032e80e3)
 
 
+## Tech Stack
 
+HTML | CSS 
 
 
 section: added authors sections in the readme.md file
