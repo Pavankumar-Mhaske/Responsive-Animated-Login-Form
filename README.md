@@ -56,4 +56,7 @@ If you have any feedback, please reach out to us at mhaskepavankumar@gmial.com
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PavankumarMhas1/)
 
+## 🛠 Skills
+
+MERN, Node.js, Express, MongoDB, Mongoose,React.js, Javascript, HTML, TailwindCSS, CSS, Context API, Third Party APIs, Angular, VueJS, Vue Cli, Next.js ...
 
