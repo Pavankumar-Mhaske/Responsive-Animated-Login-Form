@@ -20,6 +20,8 @@ Contributions are always welcome!
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+[tailwindCSS](https://tailwindcss.com/)
+
 ## 📸 Screenshots 📷🎥
 
 <p align="center">
@@ -38,7 +40,6 @@ HTML | CSS
 
 If you have any feedback, please reach out to us at mhaskepavankumar@gmial.com
 
-
 ## 👋🏻✍🏻🤟🏻🙌🏻🙏🏻👏🏻🤟🏻🙌🏻👏🏻🤟🏻🙏🏻🙌🏻👏🏻🤟🏻🙌🏻🙏🏻🤟🏻👏🏻🙌🏻🙏🏻🤟🏻👏🏻🙌🏻🙏🏻🙏🏻
 
 # Hi, I'm Pavankumar Mhaske! 👋🏻
@@ -46,7 +47,6 @@ If you have any feedback, please reach out to us at mhaskepavankumar@gmial.com
 ## 🚀 About Me
 
 "I am a tech-savvy software engineer entering the industry with a strong foundation in technology and a specialization in full-stack development..."
-
 
 ## 🔗 Links
 
@@ -61,4 +61,3 @@ If you have any feedback, please reach out to us at mhaskepavankumar@gmial.com
 ## 🛠 Skills
 
 MERN, Node.js, Express, MongoDB, Mongoose,React.js, Javascript, HTML, TailwindCSS, CSS, Context API, Third Party APIs, Angular, VueJS, Vue Cli, Next.js ...
-
