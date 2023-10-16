@@ -18,6 +18,8 @@ Contributions are always welcome!
 
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## 📸 Screenshots 📷🎥
 
 <p align="center">
